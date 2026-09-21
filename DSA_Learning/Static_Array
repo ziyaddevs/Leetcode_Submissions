@@ -24,10 +24,11 @@ public class StaticArray
     //Insert in the middle
     public void InsertMiddle(int[] arr, int i, int length)
     {
-        for(int i = 0; i < length; i++)
+        for(int index = length; index > i - 1; index++)
         {
-            array(i - 1) = arr[i];
+            arr[index + 1] = arr[index];
         }
+        arr[i] = n;
     }
 
     //We print array
