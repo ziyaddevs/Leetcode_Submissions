@@ -4,15 +4,14 @@ My solutions to LeetCode problems written in C#.
 
 This repository is used to practice problem-solving, data structures, algorithms, and C# programming while building a consistent record of my progress.
 
-## Problems
+## Core Patterns & Topics
 
-| # | Problem | Difficulty | Topic |
-|---|---|---|---|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array, Hash Map |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Array, Hash Set |
-| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | Array, Hash Set |
-| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | Array, Hash Set |
-| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Array, Boyer-Moore |
+My problem-solving approach emphasizes identifying core structural patterns over brute-force simulation:
+
+- **Stacks & Queues**: Bracket validation, two-stack minimum tracking (`MinStack`), and frequency counting for queue-based simulations.
+- **Linked Lists**: Singly and doubly linked lists, the "dummy head" technique, pointer rewiring, and recursive list manipulation.
+- **Arrays & Pointers**: Two-pointer techniques, working backwards from tails to merge arrays in-place, and partition-based sorting (e.g., Dutch National Flag problem).
+- **Algorithmic Patterns**: Recognizing Fibonacci sequences, divide-and-conquer strategies, and sorting optimizations.
 
 ## Goals
 
@@ -28,7 +27,7 @@ This repository is used to practice problem-solving, data structures, algorithms
 
 ## Progress
 
-I'm working through LeetCode problems progressively, focusing on understanding the reasoning behind each solution rather than simply memorizing answers.
+I'm working through LeetCode problems progressively, focusing on understanding the logical "why" and core patterns behind each solution rather than manual boilerplate or memorizing answers.
 
 ## Notes
 
