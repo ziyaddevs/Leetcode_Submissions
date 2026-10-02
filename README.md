@@ -4,15 +4,6 @@ My solutions to LeetCode problems written in C#.
 
 This repository is used to practice problem-solving, data structures, algorithms, and C# programming while building a consistent record of my progress.
 
-## Core Patterns & Topics
-
-My problem-solving approach emphasizes identifying core structural patterns over brute-force simulation:
-
-- **Stacks & Queues**: Bracket validation, two-stack minimum tracking (`MinStack`), and frequency counting for queue-based simulations.
-- **Linked Lists**: Singly and doubly linked lists, the "dummy head" technique, pointer rewiring, and recursive list manipulation.
-- **Arrays & Pointers**: Two-pointer techniques, working backwards from tails to merge arrays in-place, and partition-based sorting (e.g., Dutch National Flag problem).
-- **Algorithmic Patterns**: Recognizing Fibonacci sequences, divide-and-conquer strategies, and sorting optimizations.
-
 ## Goals
 
 - Improve C# programming skills
